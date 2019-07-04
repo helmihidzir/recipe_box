@@ -12,6 +12,10 @@ gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'bootsnap', '>= 1.1.0', require: false
+gem 'haml'
+gem 'simple_form'
+gem 'bootstrap-sass', '~> 3.2.0.2'
+gem 'paperclip', '~> 4.2.0'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
@@ -31,5 +35,3 @@ group :test do
 end
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-gem 'haml'
-gem 'simple_form'
