@@ -14,7 +14,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootsnap', '>= 1.1.0', require: false
 gem 'haml'
 gem 'simple_form'
-gem 'bootstrap-sass', '~> 3.2.0.2'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'paperclip', '~> 4.2.0'
 gem 'cocoon'
 gem 'jquery-rails'
