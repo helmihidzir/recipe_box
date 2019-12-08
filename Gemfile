@@ -15,7 +15,7 @@ gem 'bootsnap', '>= 1.1.0', require: false
 gem 'haml'
 gem 'simple_form'
 gem 'bootstrap-sass', '~> 3.4.1'
-gem 'paperclip', '~> 4.2.0'
+gem 'paperclip', '~> 5.2.0'
 gem 'cocoon'
 gem 'jquery-rails'
 gem 'devise'
